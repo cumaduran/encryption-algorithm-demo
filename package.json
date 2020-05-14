@@ -1,0 +1,37 @@
+{
+  "name": "yazguvalgoritma",
+  "version": "0.1.0",
+  "description": "An Image Encryption Algorithm Based on Chaotic Selection of Robust Cryptographic Primitives",
+  "author": "CMD",
+  "private": true,
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server --watch lib",
+    "build": "nuxt build",
+    "start": "cross-env NODE_ENV=production node server/index.js",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
+  },
+  "dependencies": {
+    "@0xcmdr/numjs": "^0.16.1",
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/dotenv": "^1.4.0",
+    "cross-env": "^5.2.0",
+    "express": "^4.16.4",
+    "libvips": "^0.0.2",
+    "lodash": "^4.17.15",
+    "multer": "^1.4.2",
+    "nuxt": "^2.12.2",
+    "sha3": "^2.1.2",
+    "sharp": "^0.25.2",
+    "sqlite3": "^4.2.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/eslint-config": "^2.0.0",
+    "@nuxtjs/eslint-module": "^1.0.0",
+    "@nuxtjs/vuetify": "^1.11.2",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^6.1.0",
+    "eslint-plugin-nuxt": ">=0.4.2",
+    "nodemon": "^1.18.9"
+  }
+}

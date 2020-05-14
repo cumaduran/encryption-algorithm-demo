@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ns1="http://sozi.baierouge.fr" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" id="svg2" sodipodi:docname="encryption.svg" inkscape:export-filename="C:\Users\dmacdonald\Downloads\encryption.png" viewBox="0 0 700 700" inkscape:export-xdpi="100" version="1.1" inkscape:export-ydpi="100" inkscape:version="0.48.4 r9939">
+  <defs id="defs4">
+    <clipPath id="clipPath3896" clipPathUnits="userSpaceOnUse">
+      <text id="text3898" style="font-size:47.309px;font-family:Sans;letter-spacing:0px;line-height:125%;word-spacing:0px;fill:#999999" xml:space="preserve" transform="matrix(.90887 -.42785 .43402 .89595 0 0)" y="174.91965" x="-349.60364" sodipodi:linespacing="125%">
+        <tspan id="tspan3900" sodipodi:role="line" x="-349.60364" style="font-family:Liberation Mono;fill:#999999" y="174.91965">10101100110101111000011001100001101</tspan>
+        <tspan id="tspan3902" sodipodi:role="line" x="-349.60364" style="font-family:Liberation Mono;fill:#999999" y="234.05594">01010100011001110111110000110001110</tspan>
+        <tspan id="tspan3904" sodipodi:role="line" x="-349.60364" style="font-family:Liberation Mono;fill:#999999" y="293.1922">11100011010001100111101001101011101</tspan>
+        <tspan id="tspan3906" sodipodi:role="line" x="-349.60364" style="font-family:Liberation Mono;fill:#999999" y="352.32846">11001100011010001000101111100101100</tspan>
+        <tspan id="tspan3908" sodipodi:role="line" x="-349.60364" style="font-family:Liberation Mono;fill:#999999" y="411.46478">00110110101100110001100011100111100</tspan>
+        <tspan id="tspan3910" sodipodi:role="line" x="-349.60364" style="font-family:Liberation Mono;fill:#999999" y="470.60107">10101010011101101110111110111011110</tspan>
+        <tspan id="tspan3912" sodipodi:role="line" x="-349.60364" style="font-family:Liberation Mono;fill:#999999" y="529.7373">11100011010001100111101001101011101</tspan>
+        <tspan id="tspan3914" sodipodi:role="line" x="-349.60364" style="font-family:Liberation Mono;fill:#999999" y="588.87366">11001100011010001000101111100101100</tspan>
+        <tspan id="tspan3916" sodipodi:role="line" x="-349.60364" style="font-family:Liberation Mono;fill:#999999" y="648.00989">00110110101100110001100011100111100</tspan>
+        <tspan id="tspan3918" sodipodi:role="line" x="-349.60364" style="font-family:Liberation Mono;fill:#999999" y="707.14624">11100011010001100111101001101011101</tspan>
+        <tspan id="tspan3920" sodipodi:role="line" x="-349.60364" style="font-family:Liberation Mono;fill:#999999" y="766.28253">11001100011010001000101111100101100</tspan>
+        <tspan id="tspan3922" sodipodi:role="line" x="-349.60364" style="font-family:Liberation Mono;fill:#999999" y="825.4187">00110110101100110001100011100111101</tspan>
+      </text>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview id="base" bordercolor="#666666" inkscape:pageshadow="2" inkscape:window-y="450" pagecolor="#ffffff" inkscape:window-height="453" inkscape:window-maximized="0" inkscape:zoom="0.35" inkscape:window-x="62" showgrid="false" borderopacity="1.0" inkscape:current-layer="layer1" inkscape:cx="346.19815" inkscape:cy="394.84278" inkscape:window-width="1362" inkscape:pageopacity="0.0" inkscape:document-units="px"/>
+  <g id="layer1" inkscape:label="Layer 1" inkscape:groupmode="layer" transform="translate(0 -352.36)">
+    <g id="g3927">
+      <path id="path3924" sodipodi:rx="301.42856" sodipodi:ry="297.14285" style="stroke-linejoin:round;stroke:#8574a0;stroke-width:27.856;fill:#000000" sodipodi:type="arc" d="m645.71 371.43a301.43 297.14 0 1 1 -602.86 0 301.43 297.14 0 1 1 602.86 0z" transform="matrix(1.0693 0 0 1.0847 -18.133 299.48)" sodipodi:cy="371.42856" sodipodi:cx="344.28571"/>
+      <path id="path3837" sodipodi:rx="301.42856" sodipodi:ry="297.14285" style="stroke-linejoin:round;stroke:#8574a0;stroke-width:27.856;fill:none" sodipodi:type="arc" d="m645.71 371.43a301.43 297.14 0 1 1 -602.86 0 301.43 297.14 0 1 1 602.86 0z" transform="matrix(1.0693 0 0 1.0847 -18.133 299.48)" sodipodi:cy="371.42856" sodipodi:cx="344.28571"/>
+      <path id="path2985" style="fill:#808080" clip-path="url(#clipPath3896)" transform="matrix(1.0693 0 0 1.0847 -18.133 299.48)" d="m645.71 371.43c0 164.11-134.95 297.14-301.43 297.14-166.47 0-301.43-133.04-301.43-297.14 0-164.11 134.95-297.14 301.43-297.14 166.47 0 301.43 133.04 301.43 297.14z"/>
+      <g id="g3805" transform="translate(0 -2.6589)">
+        <rect id="rect3755" style="fill-rule:evenodd;stroke:#8574a0;stroke-width:16.083;fill:#8574a0" rx="0" ry="0" height="183.92" width="333.92" y="681.2" x="183.04"/>
+        <rect id="rect3757" style="fill-rule:evenodd;stroke:#8574a0;stroke-width:15;fill:#8574a0" rx="0" ry="0" height="35.007" width="335" y="897.89" x="182.5"/>
+        <path id="path3781" style="fill:#8574a0" inkscape:connector-curvature="0" d="m350 433.65c-82.631 0-149.86 67.226-149.86 149.86v72.431h39.962v-72.431c0-60.597 49.298-109.89 109.89-109.89 60.597 0 109.89 49.298 109.89 109.89v72.431h39.962v-72.431c0-82.631-67.226-149.86-149.86-149.86z"/>
+      </g>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
