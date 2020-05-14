@@ -10,9 +10,6 @@ Within the scope of the project, the S-Box structures of the AES algorithm and D
 ### Example Input and Output
 <p align="center">
 <img width="350" height="350" src="https://github.com/0xcmdr/encryption-algorithm-demo/raw/master/demo/input1.jpg" />
-</p>
-
-<p align="center">
 <img width="350" height="350" src="https://github.com/0xcmdr/encryption-algorithm-demo/raw/master/demo/output1.jpg" />
 </p>
 
