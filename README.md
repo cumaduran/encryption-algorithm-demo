@@ -8,10 +8,20 @@ Within the scope of the project, the S-Box structures of the AES algorithm and D
 
 > Also you can look at [Documentation of Algorithm Codes](static/out/index.html) 
 ### Example Input and Output
-![INPUT](demo/input1.jpg "INPUT") ![OUTPUT](demo/output1.jpg "OUTPUT")
+<p align="center">
+<img width="350" height="350" src="https://github.com/0xcmdr/encryption-algorithm-demo/raw/master/demo/input1.jpg" />
+</p>
+
+<p align="center">
+<img width="350" height="350" src="https://github.com/0xcmdr/encryption-algorithm-demo/raw/master/demo/output1.jpg" />
+</p>
+
 ## Project Interfaces
 ### Image Encryption
-![IMAGE ENCRYPTION](demo/imagecrop.png)
+<p align="center">
+<img src="https://github.com/0xcmdr/encryption-algorithm-demo/raw/master/demo/imagecrop.png" />
+</p>
+
 * Supported Mime Types
     - image/jpeg
     - image/png
@@ -55,7 +65,7 @@ $ npm install
 
 ## Deployment
 
-Initalize Project Fils and Launch Development Server
+Initalize Project Files and Launch Development Server
 ```bash
 $ yarn dev
 
